@@ -1,0 +1,25 @@
+{
+  "name": "movie-app-with-express",
+  "version": "1.0.0",
+  "description": "movie app with server",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "build": "next build",
+    "start": "NODE_ENV=production node server.js",
+    "heroku-postbuild": "next build"
+  },
+  "author": "siddharthgawas",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bootstrap": "^4.6.0",
+    "express": "^4.17.1",
+    "next": "^10.0.6",
+    "nodemon": "^2.0.7",
+    "react": "^17.0.1",
+    "react-bootstrap": "^1.4.3",
+    "react-dom": "^17.0.1",
+    "react-icons": "^4.2.0"
+  }
+}
