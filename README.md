@@ -1,7 +1,7 @@
 # movie-app
 
 ### Screen Shots
-
+![Text](https://github.com/siddharth-gawas/movie-list-app/blob/main/screenshots/Capture1.PNG)
 
 Search for you favourite Movies and TV shows
 
